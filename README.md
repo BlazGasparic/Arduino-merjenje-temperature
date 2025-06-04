@@ -15,3 +15,4 @@ KOSOVNICA:
 27x distančnikov
 
 SLIKA VEZALNE SHEME IZ EASYEDA:
+![image](https://github.com/user-attachments/assets/726aa355-66f8-4086-b216-40c8238b7304)
