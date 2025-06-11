@@ -16,5 +16,3 @@ KOSOVNICA:
 
 SLIKA VEZALNE SHEME IZ EASYEDA:
 ![image](https://github.com/user-attachments/assets/726aa355-66f8-4086-b216-40c8238b7304)
-![image](https://github.com/user-attachments/assets/9364c9c8-a3f9-4aad-ad95-dd9ac606cfee)
-![image](https://github.com/user-attachments/assets/b884213f-58c8-4b4f-a29d-1c997dc7c1b0)
