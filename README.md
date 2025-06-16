@@ -17,13 +17,7 @@ KOSOVNICA:
 SLIKA VEZALNE SHEME IZ EASYEDA IN SLIKA VEZJA:
 ![image](https://github.com/user-attachments/assets/726aa355-66f8-4086-b216-40c8238b7304)
 ![image](https://github.com/user-attachments/assets/e833f1a1-2881-43de-90af-26cccf32a283)
-![](https://github.com/user-attachments/assets/96c8e76d-4cd5-43aa-b2a7-f1859b802daa)
-
-
 https://github.com/user-attachments/assets/7fdafb73-2ac7-44a1-8fd7-e4426ec53358
 
-
-
-Maksimalna velikost videja je lahko samo 10 MB, kar pomeni, da je GIF lahko dolg samo do 3 sekunde. Ima 10 FPS vendar lahko še vedno odčitamo, da temperatura narašča ko thermistor tesno primemo.
 
 Komentar: Prvi termistor je bolj natančen kot drugi termistor. Razlogov zato je lahko več, eni izmed njih so lahko nenatančna kalibracija ter površno merjenje. Definitivno bi lahko izboljšala kalibracijo obeh termistorjev saj največja izmerjena napaka pri prvem termistorju je +4/-4 stopinje celzija pri drugem pa +6,2/-6,2 stopinj celzija. To pomeni, da naprava ni dovolj zanesljiva da bi jo lahko uporabljali za vsakdanjo uporabo. Ohišje bi lahko tudi bilo nadgrajeno v 3D printano škatlo, da skrije vse žice, ki sva jih uporabila in zmanjšala bi se možnost, da katera od žic izgubi kontakt, ker bi jo lahko kdo butnil. Za kalibracijo sva uporabila od ToolCrafta napravo za vroči zrak je pa težava, ker ni pihal po obeh termistorjih ter TP-202 senzorju enakomerno zato so bila velika odstopanja in bi bila potrebna izboljšava, kar se tiče umerjanja. Sva pa uporabila tudi led katerega smo se samo dotaknili z konicami termistorjev ter konico TP-202 senzorja.
